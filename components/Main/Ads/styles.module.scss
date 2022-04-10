@@ -1,0 +1,52 @@
+.Ads {
+  margin-top: 100px;
+  .imageData {
+    display: flex;
+    gap: 30px;
+    .image {
+      width: 50%;
+      img {
+        width: 100%;
+      }
+    }
+    .data {
+      width: 50%;
+      padding: 50px 0;
+      h2 {
+        font-family: "DM Serif Display";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 100%;
+        color: #4b4b4b;
+      }
+      p {
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 150%;
+        color: #737373;
+      }
+      .arrows {
+        display: flex;
+        margin-top: 30px;
+        gap: 5px;
+        .arrow_1,
+        .arrow_2 {
+          width: 70px;
+          height: 70px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background: #faf4ef;
+          &:hover{
+              opacity: 0.5;
+          }
+        }
+        .arrow_2 {
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "products_list": [
+    {
+      "title": "Chaise Molle",
+      "price": 18.0,
+      "image": "/assets/images/pro_1.png",
+      "id": 1,
+      "category": "Chair"
+    },
+    {
+      "title": "Chaise Molle",
+      "price": 12.3,
+      "image": "/assets/images/pro_2.png",
+      "id": 2,
+      "category": "Sofa"
+    },
+    {
+      "title": "Chaise Molle",
+      "price": 12.3,
+      "image": "/assets/images/pro_3.png",
+      "id": 3,
+      "category": "Chair"
+    },
+    {
+      "title": "Chaise Molle",
+      "price": 12.3,
+      "image": "/assets/images/pro_4.png",
+      "id": 4,
+      "category": "Lamp"
+    },
+    {
+      "title": "Chaise Molle",
+      "price": 12.3,
+      "image": "/assets/images/pro_5.png",
+      "id": 5,
+      "category": "Table"
+    },
+    {
+      "title": "Chaise Molle",
+      "price": 12.3,
+      "image": "/assets/images/pro_6.png",
+      "id": 6,
+      "category": "Chair"
+    }
+  ]
+}

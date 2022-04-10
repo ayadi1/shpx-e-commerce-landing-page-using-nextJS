@@ -1,0 +1,42 @@
+.footer {
+  margin-top: 50px;
+  padding: 50px 0;
+  .mainFooter {
+    background: #faf4ef;
+    border-radius: 0px 100px 0px 0px;
+    padding: 50px;
+    h2 {
+      font-family: "DM Serif Display";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 64px;
+      line-height: 150%;
+      color: #4b4b4b;
+    }
+    .links {
+      margin-top: 30px;
+      display: flex;
+      gap: 20px;
+      .Quote {
+        background: #4b4b4b;
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+        color: #ffffff;
+        padding: 10px 20px;
+      }
+      .Contact {
+        background: #ffffff;
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 150%;
+        color: #4b4b4b;
+        padding: 10px 20px;
+      }
+    }
+  }
+}
