@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SHPX | ecommerce landing page
+
+### live preview => https://shpx-e-commerce-landing-page-using-nextjs.netlify.app/
+![Design preview for SHPX | ecommerce landing page coding challenge](./previewImage.png)
 
 ## Getting Started
 
