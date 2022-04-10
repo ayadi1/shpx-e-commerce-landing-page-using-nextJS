@@ -11,7 +11,7 @@ export default function Home() {
         <meta name="author" content="oussama ayadi" />
         <meta name="publisher" content="oussama ayadi" />
         <meta name="copyright" content="oussama ayadi" />
-        <meta property="og:image" content="./assets/images/previewImage.png" />
+        <meta property="og:image" content="/assets/images/previewImage.png" />
         <meta property="og:title" content="SHPX | ecommerce landing page" />
         <meta property="og:type" content="website" />
         <meta name="twitter:title" content="SHPX | ecommerce landing page " />
@@ -19,7 +19,7 @@ export default function Home() {
           name="twitter:description"
           content=" SHPX | ecommerce landing page. by oussama ayadi"
         />
-        <meta name="twitter:image" content="./assets/images/previewImage.png" />
+        <meta name="twitter:image" content="/assets/images/previewImage.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <title>SHPX | ecommerce landing page</title>
       </Head>
