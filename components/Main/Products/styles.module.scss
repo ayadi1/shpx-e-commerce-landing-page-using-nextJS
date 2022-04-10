@@ -35,6 +35,7 @@
       background: #faf4ef;
       border-radius: 0px 0px 0px 50px;
       padding: 30px;
+      min-width: 300px;
       h3 {
         font-family: "DM Serif Display";
         font-style: normal;
@@ -56,6 +57,18 @@
         margin-top: 50px;
         width: 100%;
       }
+    }
+  }
+}
+
+@media (max-width: 575.98px) {
+  .productsSection {
+    .category {
+    }
+    .products {
+      display: flex;
+      overflow-y: hidden;
+      overflow-x: auto;
     }
   }
 }
